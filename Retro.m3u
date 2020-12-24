@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://twitter.com/Punto_99/photo" group-title="CH", EL PUNTO 99
+https://servers.amelbasoluciones.co:19360/punto99/punto99.m3u8
+#EXTINF:-1  group-title="CH", Canal San Antioo
+http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CA", EL SALVADOR - Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CA", EL SALVADOR - Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://teleredtelevision.com/images/logo.pn" group-title="CA", Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://teleredtelevision.com/images/logo.pn" group-title="CA", Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://teleredtelevision.com/images/logo.png" group-title="CH", itv patagonia
+https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="CA", maxima tv 
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="CH", tv clasica
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="CH", retro plamares
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="CH", Canal 2
+https://unlimited1-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="CH", Fluxus TV
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="CH", Maxima
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1  group-title="CH", Maxima
